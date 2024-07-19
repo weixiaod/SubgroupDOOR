@@ -1,0 +1,22 @@
+Package: SubgroupDOOR
+Type: Package
+Title: Subgroup Analysis based on the Desirability of Outcome Ranking (DOOR)
+Version: 0.1.0
+Author: Weixiao Dai
+Maintainer: Weixiao Dai <wxdai.gwu@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    ggplot2,
+    tidyr,
+    tibble,
+    purrr,
+    ordinal,
+    stepp,
+    ggpubr,
+    scales
+RoxygenNote: 7.2.3
